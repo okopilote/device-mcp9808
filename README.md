@@ -1,7 +1,7 @@
 # okopilote-devices-mcp9808
 
 `okopilote-devices-mcp9808` provides a module to interface `okopilote-room`
-software with the [MCP9808 I2C temperatur sensor](https://www.adafruit.com/product/1782).
+software with the [MCP9808 I2C temperature sensor](https://www.adafruit.com/product/1782).
 
 ## Table of Contents
 
