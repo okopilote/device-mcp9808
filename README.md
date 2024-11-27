@@ -32,7 +32,7 @@ pip install okopilote_devices_common-d.e.f-py3-none-any.whl
 
 ## Usage
 
-In the `devices.conf` file of `okopilote-room`, add a sensor section:
+In the `devices.conf` file of `okopilote-room` software, add a sensor section:
 ```ini
 [sensor_1]
 module = okopilote.devices.mcp9808
@@ -40,7 +40,7 @@ module = okopilote.devices.mcp9808
 address = 0x18
 ```
 
-Senor may now be used in `rooms.conf` file of `okopilote-room`:
+Sensor may now be used in `rooms.conf` file of `okopilote-room`:
 ```ini
 [room1]
 label = Yannick's room
